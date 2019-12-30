@@ -1,0 +1,2878 @@
+<!DOCTYPE html>
+<html>
+<title>Contact Us</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 35px;
+}
+.footer {
+  padding: 15px;
+  width: 100%;
+}
+@media screen and (max-width: 650px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 360px) {
+  .navbar a {
+    width: 100%;
+  }
+}
+.fa {
+  padding: 12px;
+  font-size: 34px;
+  width: 40px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: white;
+}
+.fa-twitter {
+  color: white;
+}
+.fa-google {
+  color: white;
+}
+</style>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active">
+		<a href="homepage.html">Home</a>
+		</li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="about%20us.html">About Us</a></li>
+        <li><a href="contact%20us.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+<body>
+<div class="header">
+  <h1>Indus Hospital</h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<head>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+  }
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 14px;
+  border: 2px solid blue;
+  margin-top: 7px;
+  margin-bottom: 17px;
+  resize: vertical;
+}
+input[type=submit] {
+  color: black;
+  padding: 15px 25px;
+  border: none;
+  cursor: pointer;
+}
+.container {
+  border-radius: 6px;
+  padding: 14px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div style="text-align:center">
+    <h2>Contact Us</h2>
+    <p>Give your feedback</p>
+  </div>
+  <div class="row">
+     <div class="column">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+<div class="container" class="text-primary">
+ <div class="row">
+      <form><p>CONTACT US:</p>
+<p>The Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p>Opposite Darussalam Society, Korangi Crossing, Karachi -75190, Pakistan.</p>
+<p>Tel: +92 (21) 35112709-17</p>
+<p>Fax: +92 (21) 35112718</p>
+<p>Our Campuses</p>
+ </form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+<p>© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: sky blue;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/MIRZA/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="file:///C:/Users/MIRZA/Desktop/homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/MIRZA/Desktop/haeart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/dental.html">Dental</a></li>
+			<li><a href="file:///C:/Users/MIRZA/Desktop/doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/HP/Desktop/aboutus.html">About Us</a></li>
+        <li><a href="file:///C:/Users/HP/Desktop/contactus.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+      <h3><b><u>Dental Facility with INH</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Health Network (IHN) hosted its first event in Duabi on December 4, 2018 at the Metropolitan Hotel, Dubai to launch its UAE chapter. The event was the proclamation of IHN’s UAE Chapter. The event was also a part of IHN’s international awareness initiative. The event was hosted By Mr Arif Lakhani.
+Indus Health Network aims to provide quality healthcare free-of-cost to everyone in need.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+</form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+</form>
+        </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+</form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form> 
+	<p> \t\tCONTACT US</p>
+ <p>\t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</form>
+    </div>
+<div class="row">
+      <form>
+	  <p> FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: sky blue;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="contactus.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+      <h3><b><u>Dental Facility with INH</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Health Network (IHN) hosted its first event in Duabi on December 4, 2018 at the Metropolitan Hotel, Dubai to launch its UAE chapter. The event was the proclamation of IHN’s UAE Chapter. The event was also a part of IHN’s international awareness initiative. The event was hosted By Mr Arif Lakhani.
+Indus Health Network aims to provide quality healthcare free-of-cost to everyone in need.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+</form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+</form>
+        </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+</form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form> 
+	<p> \t\tCONTACT US</p>
+ <p>\t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</form>
+    </div>
+<div class="row">
+      <form>
+	  <p> FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Doctor</title>
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body style="background-color: #b3e7e2;">
+	
+	  <nav class="navbar  navbar-expand-lg navbar-light" style="margin-bottom: 3%;background-color: #67aca6" >
+  <a class="navbar-brand" href="#">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Contact Us <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">About</a>
+      <a class="nav-item nav-link" href="#">Doctors</a>
+      
+    </div>
+  </div>
+</nav>
+	<div class="row" >
+		<div class="col-lg-4 col-md-4 col-sm-4" >
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="dramir.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Amir Saghir</h5>
+        <p class="card-text">Assistant professor|Department of Spinal and Neurosurgery</p>
+        <p class="card-text"><small class="text-muted">8 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drhameed.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abdul Hameed</h5>
+        <p class="card-text">Associate Professor|Department of Opthamology</p>
+        <p class="card-text"><small class="text-muted">16 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+		</div>
+	</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+		<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drafshan.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Afshan Channa</h5>
+        <p class="card-text">Assistant professor|Department of Mental Health</p>
+        <p class="card-text"><small class="text-muted">7 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>	
+		</div>
+	</div>
+</div>
+  </div>
+		
+
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drrasheed.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abdul Rasheed</h5>
+        <p class="card-text">Consultant|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">10 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="dratika.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Atika Sher</h5>
+        <p class="card-text">Consultant|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">12 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drazamali.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Azam Ali</h5>
+        <p class="card-text">Consultant|Department of Dental</p>
+        <p class="card-text"><small class="text-muted">14 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drafshan.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abrish Khan</h5>
+        <p class="card-text">Assistant Professor|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">7 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>		
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drmale.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Babar Khan</h5>
+        <p class="card-text">Consultant|Department of Dental</p>
+        <p class="card-text"><small class="text-muted">8 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+		</div>
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drhameed.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Atif Javed</h5>
+        <p class="card-text">Surgeon|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">18 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+		
+</div>
+	</div>
+<div class="jumbotron  hidden-xs" style="background-color: #67aca6;margin-bottom: 0%"></div>
+
+</body>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+<body style="background-color: #b3e7e2;">
+	
+	  <nav class="navbar  navbar-expand-lg navbar-light" style="margin-bottom: 3%;background-color: #67aca6" >
+  <a class="navbar-brand" href="#">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Contact Us <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">About</a>
+      <a class="nav-item nav-link" href="#">Doctors</a>
+      
+    </div>
+  </div>
+</nav>
+	<div class="row" >
+		<div class="col-lg-4 col-md-4 col-sm-4" >
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="dramir.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Amir Saghir</h5>
+        <p class="card-text">Assistant professor|Department of Spinal and Neurosurgery</p>
+        <p class="card-text"><small class="text-muted">8 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drhameed.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abdul Hameed</h5>
+        <p class="card-text">Associate Professor|Department of Opthamology</p>
+        <p class="card-text"><small class="text-muted">16 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+		</div>
+	</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-sm-4">
+		<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drafshan.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Afshan Channa</h5>
+        <p class="card-text">Assistant professor|Department of Mental Health</p>
+        <p class="card-text"><small class="text-muted">7 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>	
+		</div>
+	</div>
+</div>
+  </div>
+		
+
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drrasheed.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abdul Rasheed</h5>
+        <p class="card-text">Consultant|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">10 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+		</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px; box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="dratika.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Atika Sher</h5>
+        <p class="card-text">Consultant|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">12 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drazamali.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Azam Ali</h5>
+        <p class="card-text">Consultant|Department of Dental</p>
+        <p class="card-text"><small class="text-muted">14 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-md-4 col-sm-4">
+	<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drafshan.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Abrish Khan</h5>
+        <p class="card-text">Assistant Professor|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">7 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>		
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drmale.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Babar Khan</h5>
+        <p class="card-text">Consultant|Department of Dental</p>
+        <p class="card-text"><small class="text-muted">8 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-4">
+			<div class="card mb-3" style="max-width: 540px;box-shadow: 1px 1px 1px 1px grey"">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="drhameed.png" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">DR. Atif Javed</h5>
+        <p class="card-text">Surgeon|Department of Cardiology</p>
+        <p class="card-text"><small class="text-muted">18 years experience</small></p>
+        <a href="#" class="btn btn-primary">View Details</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+		
+</div>
+	</div>
+<div class="jumbotron  hidden-xs" style="background-color: #67aca6;margin-bottom: 0%"></div>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			 <li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="contactus.html">Contact us</a></li>
+      </ul>
+          </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+{
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>   The Indus Hospital Installs Magnetic Resonance Imaging Machine</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+  </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital is proud to announce the installation of its first MRI machine in the Korangi Campus, Karachi. The machine has been functional from September 2019.</p>
+<p>MRI uses a powerful magnetic field and a series of radio wave energy pulses to produce detailed images of structures inside the body. It is a safe and painless procedure. The images produced help in examining the internal parts of the body to aid in diagnosis of diseases.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients. As of June 2018, about 9,000 children have been treated for cancer and blood diseases.</p>
+<p>Government of Sindh has a long association with the Indus Hospital.</p>
+      </form>
+      </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+<p>Dr. Abdul Bari Khan, Chief Executive Officer, Indus Health Network (IHN); Dr. Akhtar Aziz, Special Advisor to CEO, IHN; Mr. Abdul Hameed Paracha, Member Board of Directos (BoD), IHN; Mr. Yahya Chawla, Member BoD, IHN; Dr. Amin Chinoy, Executive Director, Physical Rehabilitation Directorate, IHN; Dr. Mansoor Khan, Chair, Surgery and Allied Services, TIH; Dr. Mohammad Fareedud Din; Head of Pediatric Medicine; TIH; Dr. Shahid Noor, Head of Orthopedic, Liaquat National Hospital and representatives of Aamer Haider Charitable Foundation, and other dignitaries attended the event.</p>
+      </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column"> 
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+<p>The course has gained international recognition through the years on the basis of its extensive and holistic educational program. This is one-of-a-kind program which is only offered by the Indus Hospital. The program is offered biannually. Sanofi Espoir Foundation supports the program through My Child Matters grant.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form>  <p> \t\tCONTACT US</p>
+ <p>  \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+ <div class="row">
+      <form><p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body background="indus-hospital.jpg">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 10px;
+  color: black;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+  color: black;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+color:blue;  
+  }
+.fa-twitter {
+color:green;  
+ }
+.fa-google {
+color:black; 
+}
+</style>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/MIRZA/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="file:///C:/Users/MIRZA/Desktop/homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/MIRZA/Desktop/heart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/dental.html">Dental</a></li>
+			<li><a href="file:///C:/Users/MIRZA/Desktop/doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/about%20us.html">About Us</a></li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/contact%20us.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+  color: black;
+}
+ {
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 6px;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+<h1><b>VISSION & MISSION</b></h1>
+<div class="container">
+   <div class="row">
+    <div class="column">
+      <style="width:100%">
+    </div>
+    <div class="column">
+      <form>
+	  <h3><b><u> OUR VISION</b></u></h3>
+	  <p><b> Excellence in Healthcare for all.</b></p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+   <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form><h3><b><u>OUR MISSION</b></u></h3>
+	  <p><b> To focus on creating an excellence-driven, comprehensive, compassionate, free of charge and replicable healthcare system accessible to all.</b></p>
+<p><b>To be a not-for-profit entity, managed with the Islamic concept of Waqf and funded through donations and Zakat.</b></p>
+<p><b>To adhere to ethical best practices in all aspects of its operations, while following the Shariah and the Law of the Land.</b></p>
+<p><b>To empower its employees for their spiritual and professional growth.</b></p>
+<p><b>To enhance and build human capacities through quality education and research.</b></p>
+      </form>
+         </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+   <div class="column">
+    </div>
+        <div class="row">
+      <form>
+	  <h3><b><u>OUR VALUES</b></u></h1>
+	  <p><b>  Responsibility to provide healthcare as the basic human right.</b></p>
+<p><b>Excellence in quality of service delivery.</b></p>
+<p><b>Indiscrimination in health delivery methods.</b></p>
+<p><b>Dignity of patients and employees.</b></p>
+<p><b>Teamwork in moving forward and achieving milestones.</b></p>
+<p><b>Integrity in day to day activities.<b></p>
+<p><b>Loyalty and commitment to self and the Indus Hospitals cause.</b></p>
+<p><b>Passion to serve, bring smiles and change lives.</b></p>
+   </form>
+         </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+<div class="container" class="text-primary">
+ <div class="row">
+      <form>
+	  <p> FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+ </form>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+<p> @ 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="about%20us.html">About Us</a></li>
+        <li><a href="contact%20us.html">Contact us</a></li>
+      </ul>
+          </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+{
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>   The Indus Hospital Installs Magnetic Resonance Imaging Machine</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+  </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital is proud to announce the installation of its first MRI machine in the Korangi Campus, Karachi. The machine has been functional from September 2019.</p>
+<p>MRI uses a powerful magnetic field and a series of radio wave energy pulses to produce detailed images of structures inside the body. It is a safe and painless procedure. The images produced help in examining the internal parts of the body to aid in diagnosis of diseases.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients. As of June 2018, about 9,000 children have been treated for cancer and blood diseases.</p>
+<p>Government of Sindh has a long association with the Indus Hospital.</p>
+      </form>
+      </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+<p>Dr. Abdul Bari Khan, Chief Executive Officer, Indus Health Network (IHN); Dr. Akhtar Aziz, Special Advisor to CEO, IHN; Mr. Abdul Hameed Paracha, Member Board of Directos (BoD), IHN; Mr. Yahya Chawla, Member BoD, IHN; Dr. Amin Chinoy, Executive Director, Physical Rehabilitation Directorate, IHN; Dr. Mansoor Khan, Chair, Surgery and Allied Services, TIH; Dr. Mohammad Fareedud Din; Head of Pediatric Medicine; TIH; Dr. Shahid Noor, Head of Orthopedic, Liaquat National Hospital and representatives of Aamer Haider Charitable Foundation, and other dignitaries attended the event.</p>
+      </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column"> 
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+<p>The course has gained international recognition through the years on the basis of its extensive and holistic educational program. This is one-of-a-kind program which is only offered by the Indus Hospital. The program is offered biannually. Sanofi Espoir Foundation supports the program through My Child Matters grant.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form>  <p> \t\tCONTACT US</p>
+ <p>  \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+ <div class="row">
+      <form><p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="about%20us.html">About Us</a></li>
+        <li><a href="contact%20us.html">Contact us</a></li>
+      </ul>
+          </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+{
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>   The Indus Hospital Installs Magnetic Resonance Imaging Machine</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+  </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital is proud to announce the installation of its first MRI machine in the Korangi Campus, Karachi. The machine has been functional from September 2019.</p>
+<p>MRI uses a powerful magnetic field and a series of radio wave energy pulses to produce detailed images of structures inside the body. It is a safe and painless procedure. The images produced help in examining the internal parts of the body to aid in diagnosis of diseases.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients. As of June 2018, about 9,000 children have been treated for cancer and blood diseases.</p>
+<p>Government of Sindh has a long association with the Indus Hospital.</p>
+      </form>
+      </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+<p>Dr. Abdul Bari Khan, Chief Executive Officer, Indus Health Network (IHN); Dr. Akhtar Aziz, Special Advisor to CEO, IHN; Mr. Abdul Hameed Paracha, Member Board of Directos (BoD), IHN; Mr. Yahya Chawla, Member BoD, IHN; Dr. Amin Chinoy, Executive Director, Physical Rehabilitation Directorate, IHN; Dr. Mansoor Khan, Chair, Surgery and Allied Services, TIH; Dr. Mohammad Fareedud Din; Head of Pediatric Medicine; TIH; Dr. Shahid Noor, Head of Orthopedic, Liaquat National Hospital and representatives of Aamer Haider Charitable Foundation, and other dignitaries attended the event.</p>
+      </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column"> 
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+<p>The course has gained international recognition through the years on the basis of its extensive and holistic educational program. This is one-of-a-kind program which is only offered by the Indus Hospital. The program is offered biannually. Sanofi Espoir Foundation supports the program through My Child Matters grant.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form>  <p> \t\tCONTACT US</p>
+ <p>  \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+ <div class="row">
+      <form><p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<body background="indus-hospital.jpg">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 10px;
+  color: black;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+  color: black;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+color:blue;  
+  }
+.fa-twitter {
+color:green;  
+ }
+.fa-google {
+color:black; 
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/MIRZA/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="file:///C:/Users/MIRZA/Desktop/homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/MIRZA/Desktop/heart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/dental.html">Dental</a></li>
+			<li><a href="file:///C:/Users/MIRZA/Desktop/doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/about%20us.html">About Us</a></li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/contact%20us.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+  color: black;
+}
+ {
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 6px;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+<h1><b>VISSION & MISSION</b></h1>
+<div class="container">
+   <div class="row">
+    <div class="column">
+      <style="width:100%">
+    </div>
+    <div class="column">
+      <form>
+	  <h3><b><u> OUR VISION</b></u></h3>
+	  <p><b> Excellence in Healthcare for all.</b></p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+   <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form><h3><b><u>OUR MISSION</b></u></h3>
+	  <p><b> To focus on creating an excellence-driven, comprehensive, compassionate, free of charge and replicable healthcare system accessible to all.</b></p>
+<p><b>To be a not-for-profit entity, managed with the Islamic concept of Waqf and funded through donations and Zakat.</b></p>
+<p><b>To adhere to ethical best practices in all aspects of its operations, while following the Shariah and the Law of the Land.</b></p>
+<p><b>To empower its employees for their spiritual and professional growth.</b></p>
+<p><b>To enhance and build human capacities through quality education and research.</b></p>
+      </form>
+         </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+   <div class="column">
+    </div>
+        <div class="row">
+      <form>
+	  <h3><b><u>OUR VALUES</b></u></h1>
+	  <p><b>  Responsibility to provide healthcare as the basic human right.</b></p>
+<p><b>Excellence in quality of service delivery.</b></p>
+<p><b>Indiscrimination in health delivery methods.</b></p>
+<p><b>Dignity of patients and employees.</b></p>
+<p><b>Teamwork in moving forward and achieving milestones.</b></p>
+<p><b>Integrity in day to day activities.<b></p>
+<p><b>Loyalty and commitment to self and the Indus Hospitals cause.</b></p>
+<p><b>Passion to serve, bring smiles and change lives.</b></p>
+   </form>
+         </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+<div class="container" class="text-primary">
+ <div class="row">
+      <form>
+	  <p> FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+ </form>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+<p> @ 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 10px;
+  color: black;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+  color: black;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+color:blue;  
+  }
+.fa-twitter {
+color:green;  
+ }
+.fa-google {
+color:black; 
+}
+
+.background{
+  
+}
+</style>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body background="indus-hospital.jpg" class ="background" >
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="about%20us.html">About Us</a></li>
+        <li><a href="contact%20us.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+  color: black;
+}
+ {
+  box-sizing: border-box;
+}
+.container {
+  border-radius: 6px;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+<h1><b>VISSION & MISSION</b></h1>
+<div class="container">
+   <div class="row">
+    <div class="column">
+      <style="width:100%">
+    </div>
+    <div class="column">
+      <form>
+	  <h3><b><u> OUR VISION</b></u></h3>
+	  <p><b> Excellence in Healthcare for all.</b></p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+   <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form><h3><b><u>OUR MISSION</b></u></h3>
+	  <p><b> To focus on creating an excellence-driven, comprehensive, compassionate, free of charge and replicable healthcare system accessible to all.</b></p>
+<p><b>To be a not-for-profit entity, managed with the Islamic concept of Waqf and funded through donations and Zakat.</b></p>
+<p><b>To adhere to ethical best practices in all aspects of its operations, while following the Shariah and the Law of the Land.</b></p>
+<p><b>To empower its employees for their spiritual and professional growth.</b></p>
+<p><b>To enhance and build human capacities through quality education and research.</b></p>
+      </form>
+         </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+   <div class="column">
+    </div>
+        <div class="row">
+      <form>
+	  <h3><b><u>OUR VALUES</b></u></h1>
+	  <p><b>  Responsibility to provide healthcare as the basic human right.</b></p>
+<p><b>Excellence in quality of service delivery.</b></p>
+<p><b>Indiscrimination in health delivery methods.</b></p>
+<p><b>Dignity of patients and employees.</b></p>
+<p><b>Teamwork in moving forward and achieving milestones.</b></p>
+<p><b>Integrity in day to day activities.<b></p>
+<p><b>Loyalty and commitment to self and the Indus Hospitals cause.</b></p>
+<p><b>Passion to serve, bring smiles and change lives.</b></p>
+   </form>
+         </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+<div class="container" class="text-primary">
+ <div class="row">
+      <form>
+	  <p> FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+ </form>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+ <div>
+ </div>
+<p> @ 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</body>
+</html>
+
+
+
+
+  
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: light green;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/MIRZA/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="file:///C:/Users/MIRZA/Desktop/homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/MIRZA/Desktop/heart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/dental.html">Dental</a></li>
+			<li><a href="file:///C:/Users/MIRZA/Desktop/doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/about%20us.html">About Us</a></li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/contact%20us.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>Pakistani Celebrities Show Support for the OPD of Indus Hospital</b></u></h3>
+<div class="container">
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>Artist have the most sensitive souls. They deeply feel the pain and joys of life and portray these emotions through their characters, songs, and other mediums of expression. Their performance not only provide entertainment but it also shapes the societal conscience. Because of their power to influence people, many artists are becoming champions of social causes and they consider it their responsibility to help reform the society and support their fellow beings.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients.</p>     
+</form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+        <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+	   </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form> 
+	<p> \t\tCONTACT US</p>
+ <p> \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p>  \t\tOpposite Darussalam Society</p>
+<p>  \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+<p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+<p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+<div class="row">
+      <form>
+	  <p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: light green;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			<li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="about%20us.html">About Us</a></li>
+        <li><a href="contact%20us.html">Contact us</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>Pakistani Celebrities Show Support for the OPD of Indus Hospital</b></u></h3>
+<div class="container">
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>Artist have the most sensitive souls. They deeply feel the pain and joys of life and portray these emotions through their characters, songs, and other mediums of expression. Their performance not only provide entertainment but it also shapes the societal conscience. Because of their power to influence people, many artists are becoming champions of social causes and they consider it their responsibility to help reform the society and support their fellow beings.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients.</p>     
+</form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+        <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+	   </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column">
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3> VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form> 
+	<p> \t\tCONTACT US</p>
+ <p> \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p>  \t\tOpposite Darussalam Society</p>
+<p>  \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+<p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+<p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+<div class="row">
+      <form>
+	  <p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/HP/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="file:///C:/Users/HP/Desktop/homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/HP/Desktop/haeart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/HP/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/HP/Desktop/dental.html">Dental</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/HP/Desktop/aboutus.html">About Us</a></li>
+        <li><a href="file:///C:/Users/HP/Desktop/contactus.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet"
+href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 50px;
+}
+.footer {
+  padding: 20px;
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 60px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: blue;
+}
+.fa-twitter {
+  color: green;
+}
+.fa-google {
+  color: black;
+}
+</style>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="homepage.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="heart.html">Heart</a></li>
+            <li><a href="OPD.html">OPD</a></li>
+            <li><a href="dental.html">Dental</a></li>
+			 <li><a href="doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="aboutus.html">About Us</a></li>
+        <li><a href="contactus.html">Contact us</a></li>
+      </ul>
+          </div>
+  </div>
+</nav>
+  </body>
+</html>
+</head>
+<body>
+<div class="header">
+  <h1><b>Indus Hospital</b></h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+{
+  box-sizing: border-box;
+}
+</style>
+</head>
+<body>
+<h3><b><u>   The Indus Hospital Installs Magnetic Resonance Imaging Machine</b></u></h3>
+<div class="container">
+   <div class="row">
+    <div class="column">
+  </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital is proud to announce the installation of its first MRI machine in the Korangi Campus, Karachi. The machine has been functional from September 2019.</p>
+<p>MRI uses a powerful magnetic field and a series of radio wave energy pulses to produce detailed images of structures inside the body. It is a safe and painless procedure. The images produced help in examining the internal parts of the body to aid in diagnosis of diseases.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+<h3><b><u>Syed Murad Ali Shah, Chief Minister of Sindh Inaugurates Indus Hospital’s Pediatric Complex and Appreciates its Efforts to Reduce Children’s Suffering</b></u></h3>
+  <div class="row">
+   <div class="column">
+    </div>
+    <div class="row">
+      <form>
+      <p>“The Indus Hospital has a special place in my heart for its valuable contribution to the healthcare system of Pakistan”, said Syed Murad Ali Shah, Chief Minister of Sindh. He was visiting the Indus Hospital (TIH) on Friday, May 10, 2019 to inaugurate the Pediatric Complex. Dr Abdul Bari khan, Chief Executive Officer, Indus Health Network (IHN) welcomed him. IHN’s Board Members, Executive Directors, and faculty members were also present.</p>
+<p>Mr. Shah visited the hospital and inaugurated the Pediatric Complex. TIH is a 300-bedded hospital out of which 115 beds are dedicated for pediatric services which include 85 beds for pediatric oncology patients. As of June 2018, about 9,000 children have been treated for cancer and blood diseases.</p>
+<p>Government of Sindh has a long association with the Indus Hospital.</p>
+      </form>
+      </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Protects the Future of Pakistan by Saving Children from Deadly Diseases</b></u></h3>
+  <div class="row">
+   <div class="column">
+          </div>
+    <div class="row">
+      <form>
+      <p>The Indus Hospital (TIH) offers a wide variety of comprehensive medical care for infants and children. Children need special care and TIH offers an inclusive treatment which not only curative but it also takes into account their behavioral, entertainment, and educational needs as well. The hospital offers child-friendly environment and celebrates their successful treatment. In accordance with the tradition, TIH, organized a Children’s Carnival on Saturday, December 14, 2019. The Universal Children’s Day is celebrated globally on December 15 to celebrate children and to highlight the charter of children’s rights around the world. The event was clubbed with another children-specific cause – Clubfoot. Clubfoot is a four-year treatment program to rectify clubfoot problem in children. Every year, TIH, organizes ‘Clubfoot Se Jeet Ka Jashan’ in order to celebrate the successful completion of treatment.</p>
+<p>Dr. Abdul Bari Khan, Chief Executive Officer, Indus Health Network (IHN); Dr. Akhtar Aziz, Special Advisor to CEO, IHN; Mr. Abdul Hameed Paracha, Member Board of Directos (BoD), IHN; Mr. Yahya Chawla, Member BoD, IHN; Dr. Amin Chinoy, Executive Director, Physical Rehabilitation Directorate, IHN; Dr. Mansoor Khan, Chair, Surgery and Allied Services, TIH; Dr. Mohammad Fareedud Din; Head of Pediatric Medicine; TIH; Dr. Shahid Noor, Head of Orthopedic, Liaquat National Hospital and representatives of Aamer Haider Charitable Foundation, and other dignitaries attended the event.</p>
+      </form>
+     </div>
+  </div>
+</div>
+<div class="container">
+ <h3><b><u>The Indus Hospital Offers Quality Pediatric Oncology Nursing Education to Nurses from Different Countries</b></u></h3>
+  <div class="row">
+    <div class="column"> 
+    </div>
+    <div class="column">
+      <form>
+      <p>The Indus Hospital has been conducting a two-week educational and training course for Pediatric Oncology Nurses to enhance their skills and knowledge in Infection control, Chemotherapy administration, Critical care, and pain and palliation. The purpose to establish this course was to encourage Pediatric Oncology Nurses to provide quality and uniform care to the vulnerable population in Pakistan as well as in other lower middle income countries. The twentieth, two-week course has successfully completed on December 12, 2019.</p>
+<p>The course has gained international recognition through the years on the basis of its extensive and holistic educational program. This is one-of-a-kind program which is only offered by the Indus Hospital. The program is offered biannually. Sanofi Espoir Foundation supports the program through My Child Matters grant.</p>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+   <div class="row">
+    <div class="column">
+    <form>  <p> \t\tCONTACT US</p>
+ <p>  \t\tThe Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p> \t\tOpposite Darussalam Society</p>
+<p> \t\tKorangi Crossing, Karachi -75190, Pakistan.</p>
+ <p> \t\tTel: +92 (21) 35112709-17</p>
+ <p> \t\tFax: +92 (21) 35112718</p>
+ <p> \t\tOur Campuses</p>
+<p> \t\t© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a></p>
+</form>
+    </div>
+ <div class="row">
+      <form><p>FOR ZAKAT & DONATIONS</p>
+<p> Donate online</p>           
+<p> Call us at: +92 21 111 111 880</p>
+<p> Write to us at: crd@tih.org.pk</p>
+<p> Collection Centres</p>
+</form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<title>Contact Us</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+ {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  margin: 0;
+}
+.header {
+  padding: 2px;
+  text-align: center;
+  color: black;
+}
+.header h1 {
+  font-size: 35px;
+}
+.footer {
+  padding: 15px;
+  width: 100%;
+}
+@media screen and (max-width: 650px) {
+  .row {   
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 360px) {
+  .navbar a {
+    width: 100%;
+  }
+}
+.fa {
+  padding: 12px;
+  font-size: 34px;
+  width: 40px;
+  text-align: center;
+  margin: 7px 3px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  color: white;
+}
+.fa-twitter {
+  color: white;
+}
+.fa-google {
+  color: white;
+}
+</style>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="file:///C:/Users/MIRZA/Desktop/homepage.html">Indus Hospital</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active">
+		<a href="file:///C:/Users/MIRZA/Desktop/homepage.html">Home</a>
+		</li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Department <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="file:///C:/Users/MIRZA/Desktop/heart.html">Heart</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/OPD.html">OPD</a></li>
+            <li><a href="file:///C:/Users/MIRZA/Desktop/dental.html">Dental</a></li>
+			<li><a href="file:///C:/Users/MIRZA/Desktop/doctor.html">Doctor</a></li>
+          </ul>
+        </li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/about%20us.html">About Us</a></li>
+        <li><a href="file:///C:/Users/MIRZA/Desktop/contact%20us.html">Contact us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  </body>
+</html>
+<body>
+<div class="header">
+  <h1>Indus Hospital</h1>
+  <p><b>Health</b> For EveryOne</p>
+</div>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+}
+</style>
+</head>
+<head>
+<style>
+body {
+  font-family: Arial;
+}
+ {
+  box-sizing: border-box;
+  }
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 14px;
+  border: 2px solid blue;
+  margin-top: 7px;
+  margin-bottom: 17px;
+  resize: vertical;
+}
+input[type=submit] {
+  color: black;
+  padding: 15px 25px;
+  border: none;
+  cursor: pointer;
+}
+.container {
+  border-radius: 6px;
+  padding: 14px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <div style="text-align:center">
+    <h2>Contact Us</h2>
+    <p>Give your feedback</p>
+  </div>
+  <div class="row">
+     <div class="column">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h3>VISIT US </h3>
+  <a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-google"></a>
+</div>
+<div class="container" class="text-primary">
+ <div class="row">
+      <form><p>CONTACT US:</p>
+<p>The Indus Hospital, Plot C-76, Sector 31/5,</p>
+<p>Opposite Darussalam Society, Korangi Crossing, Karachi -75190, Pakistan.</p>
+<p>Tel: +92 (21) 35112709-17</p>
+<p>Fax: +92 (21) 35112718</p>
+<p>Our Campuses</p>
+ </form>
+ </div>
+ <div>
+ </div>
+ <div></div>
+ <div>
+ </div>
+<p>© 2019 - THE INDUS HOSPITAL - All Rights Reserved <a href="index.html">  |PRIVACY POLICY</a>
+</p>
+</body>
+</html> 
